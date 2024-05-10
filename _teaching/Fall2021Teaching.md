@@ -1,5 +1,5 @@
 ---
-title: "Waves and Oscillations"
+title: "PHYS 20A: Waves and Oscillations"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/Fall-2021-Teaching
