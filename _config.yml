@@ -91,7 +91,7 @@ author:
   bio              : "Physics Ph.D. Student"
   location         : "New York University"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "mh7567@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -119,7 +119,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "0Fx5aD8TsURGxWLrWcx_sA"
+  youtube          : "https://youtube.com/@MarcusHoskins"
   wikipedia        :
 
 
