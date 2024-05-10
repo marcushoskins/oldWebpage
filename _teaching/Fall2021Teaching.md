@@ -1,7 +1,7 @@
 ---
 title: "Waves and Oscillations"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 permalink: /teaching/Fall-2021-Teaching
 venue: "Brandeis University, Physics Department"
 date: 2021-08-25
