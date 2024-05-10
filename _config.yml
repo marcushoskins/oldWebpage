@@ -88,12 +88,12 @@ analytics:
 author:
   name             : "Marcus Hoskins"
   avatar           : "profile.png"
-  bio              : "Undergraduate Student"
-  location         : "Brandeis University"
+  bio              : "Physics Ph.D. Student"
+  location         : "New York University"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "marcushoskins@brandeis.edu"
+  email            : "mh7567@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
