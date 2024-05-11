@@ -92,7 +92,7 @@ author:
   location         : "New York University"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "mh7567@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
