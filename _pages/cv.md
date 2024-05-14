@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, B.S. in Pure Mathematics, Brandeis University, 
+* B.S. in Physics, B.S. in Pure Mathematics, Brandeis University, 2024
 * Ph.D in Theoretical Physics, New York University, 2030 (expected)
 
 Work experience
