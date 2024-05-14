@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Full CV
+======
+For my full CV, please click [here](https://marcushoskins.github.io/files/CV.pdf).
+
 Education
 ======
 * B.S. in Physics, B.S. in Pure Mathematics, Brandeis University, 2024
