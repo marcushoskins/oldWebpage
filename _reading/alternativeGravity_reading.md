@@ -8,6 +8,13 @@ tags:
 This is where we will put reading for alternative (non-GR) theories of gravity.
 
 <details>
-  <summary>Alternate Gravity Reading</summary>
-  This will be where the alternate gravity reading sits. 
+  <summary>$f(\cdot)$ Theories</summary>
+  <details>
+    <summary>$f(R)$ Theories</summary>
+    
+  </details>
+  <details>
+    <summary>$f(Q)$ Theories</summary>
+    
+  </details>
 </details>
