@@ -11,12 +11,10 @@ This is where we will put reading for alternative (non-GR) theories of gravity.
   <summary>$f(\cdot)$ Theories</summary>
   
   <details>
-    
     <summary>$f(R)$ Theories</summary>
     
   </details>
   <details>
-    
     <summary>$f(Q)$ Theories</summary>
     
     First evidence that non-metricity $f(Q)$ gravity could challenge $\Lambda$CDM, ([arXiv](https://arxiv.org/abs/2104.15123))
