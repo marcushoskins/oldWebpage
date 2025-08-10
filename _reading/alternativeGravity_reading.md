@@ -36,3 +36,14 @@ This is where we will put reading for alternative (non-GR) theories of gravity.
     
   </details>
 </details>
+
+<details>
+  <summary>Reviews</summary>
+  <ul>
+    <li>
+      <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=932f716611c967b3dd5187432776cb76b979940a" target="_blank">
+        [Dissertation] Alternate Theories of Gravity
+      </a>
+    </li>
+  </ul>
+</details>
