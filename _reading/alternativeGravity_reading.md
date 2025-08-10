@@ -8,7 +8,7 @@ tags:
 This is where we will put reading for alternative (non-GR) theories of gravity.
 
 <details>
-  <summary># $f(\cdot)$ Theories</summary>
+  <summary>**$f(\cdot)$ Theories**</summary>
   <details>
     <summary>$f(R)$ Theories</summary>
     
