@@ -96,4 +96,16 @@ This is where we will put reading for alternative (non-GR) theories of gravity.
 </details>
 
 
+<details>
+  <summary>Cartan Gravity</summary>
+  <ul>
+    <li>
+      <a href="https://arxiv.org/abs/1411.1679" target="_blank">
+        An introduction to the physics of Cartan gravity
+      </a>
+    </li>
+  </ul>
+</details>
+
+
 
