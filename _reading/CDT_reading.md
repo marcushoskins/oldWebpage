@@ -39,6 +39,11 @@ This is where we will put reading for causal dynamical triangulations.
         Reconstructing the Universe
       </a>
     </li>
+    <li>
+      <a href="https://arxiv.org/abs/1905.08669" target="_blank">
+        Quantum Gravity from Causal Dynamical Triangulations: A Review
+      </a>
+    </li>
   </ul>
 </details>
 
