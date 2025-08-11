@@ -49,6 +49,11 @@ This is where we will put reading for causal dynamical triangulations.
         Causal Dynamical Triangulations: Gateway to Nonperturbative Quantum Gravity
       </a>
     </li>
+    <li>
+      <a href="https://arxiv.org/abs/hep-th/0604212" target="_blank">
+        Quantum Gravity, or The Art of Building Spacetime
+      </a>
+    </li>
   </ul>
 </details>
 
