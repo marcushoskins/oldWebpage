@@ -44,6 +44,11 @@ This is where we will put reading for causal dynamical triangulations.
         Quantum Gravity from Causal Dynamical Triangulations: A Review
       </a>
     </li>
+    <li>
+      <a href="https://arxiv.org/abs/2401.09399" target="_blank">
+        Causal Dynamical Triangulations: Gateway to Nonperturbative Quantum Gravity
+      </a>
+    </li>
   </ul>
 </details>
 
