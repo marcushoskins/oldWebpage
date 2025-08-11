@@ -28,8 +28,25 @@ This is where we will put reading for multifractional spacetimes.
   <summary>Papers</summary>
   <ul>
     <li>
-      <a href="" target="_blank">
-        f
+      <a href="https://arxiv.org/abs/2210.04914" target="_blank">
+        Ultraviolet-complete quantum field theories with fractional operators
+      </a>
+    </li>
+    <li>
+      <a href="https://arxiv.org/abs/2505.13121" target="_blank">
+        Fractional Einstein field equations in $2+1$ dimensional spacetime
+      </a>
+    </li>
+  </ul>
+</details>
+
+
+<details>
+  <summary>Fractional Math</summary>
+  <ul>
+    <li>
+      <a href="https://www.ijopcm.org/Vol/2022/4.5.pdf" target="_blank">
+        A Brief Review about Fractional Calculus
       </a>
     </li>
   </ul>
