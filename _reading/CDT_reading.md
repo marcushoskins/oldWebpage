@@ -116,6 +116,11 @@ This is where we will put reading for causal dynamical triangulations.
         Spectral dimension of the universe
       </a>
     </li>
+    <li>
+      <a href="https://inspirehep.net/literature/2907210" target="_blank">
+        A Renormalization Group Analysis of the Ising Model Coupled to Causal Dynamical Triangulations
+      </a>
+    </li>
   </ul>
 </details>
 
