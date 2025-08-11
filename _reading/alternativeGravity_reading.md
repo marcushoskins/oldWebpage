@@ -8,6 +8,28 @@ tags:
 This is where we will put reading for alternative (non-GR) theories of gravity.
 
 <details>
+  <summary>Reviews</summary>
+  <ul>
+    <li>
+      <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=932f716611c967b3dd5187432776cb76b979940a" target="_blank">
+        [Dissertation] Alternate Theories of Gravity
+      </a>
+    </li>
+    <li>
+      <a href="https://arxiv.org/abs/1210.3775" target="_blank">
+        Gauge Theories of Gravitation
+      </a>
+    </li>
+    <li>
+      <a href="https://arxiv.org/abs/1106.2476" target="_blank">
+        Modified Gravity and Cosmology
+      </a>
+    </li>
+  </ul>
+</details>
+
+
+<details>
   <summary>$f(\cdot)$ Theories</summary>
   
   <details>
@@ -37,13 +59,29 @@ This is where we will put reading for alternative (non-GR) theories of gravity.
   </details>
 </details>
 
+
 <details>
-  <summary>Reviews</summary>
+  <summary>Analogue Gravity</summary>
   <ul>
     <li>
-      <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=932f716611c967b3dd5187432776cb76b979940a" target="_blank">
-        [Dissertation] Alternate Theories of Gravity
+      <a href="https://arxiv.org/abs/gr-qc/0505065" target="_blank">
+        Analogue Gravity
       </a>
     </li>
   </ul>
 </details>
+
+
+<details>
+  <summary>Tantum Gravity</summary>
+  <ul>
+    <li>
+      <a href="https://inspirehep.net/literature/2864379" target="_blank">
+        Tantum Gravity
+      </a>
+    </li>
+  </ul>
+</details>
+
+
+
