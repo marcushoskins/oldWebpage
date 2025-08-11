@@ -108,4 +108,40 @@ This is where we will put reading for alternative (non-GR) theories of gravity.
 </details>
 
 
+<details>
+  <summary>Horava-Lifshitz Gravity</summary>
+  <ul>
+    <li>
+      <a href="https://arxiv.org/abs/1010.3218" target="_blank">
+        Horava-Lifshitz gravity: a status report
+      </a>
+    </li>
+  </ul>
+</details>
+
+
+<details>
+  <summary>Teleparallel Gravity</summary>
+  <ul>
+    <li>
+      <a href="https://arxiv.org/abs/2207.06438" target="_blank">
+        Teleparallel gravity
+      </a>
+    </li>
+  </ul>
+</details>
+
+
+<details>
+  <summary>Metric-affine Gravity</summary>
+  <ul>
+    <li>
+      <a href="https://arxiv.org/abs/2505.23894" target="_blank">
+        Can metric-affine gravity be saved?
+      </a>
+    </li>
+  </ul>
+</details>
+
+
 
