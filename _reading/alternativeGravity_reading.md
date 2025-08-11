@@ -144,4 +144,16 @@ This is where we will put reading for alternative (non-GR) theories of gravity.
 </details>
 
 
+<details>
+  <summary>Bimetric Theory</summary>
+  <ul>
+    <li>
+      <a href="https://arxiv.org/abs/1512.00021" target="_blank">
+        Recent developments in bimetric theory
+      </a>
+    </li>
+  </ul>
+</details>
+
+
 
