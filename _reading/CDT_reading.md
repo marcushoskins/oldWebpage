@@ -163,5 +163,11 @@ This is where we will put reading for causal dynamical triangulations.
     <li>
       Could the phase transitions listed in <a href="https://arxiv.org/abs/gr-qc/0102052" target="_blank">here</a> have something to do with the phase transitions of black holes given in GTD? Find sources and compare
     </li>
+    <li>
+      What does scattering of particles look like in CDT?
+    </li>
+    <li>
+      Can one impose asymptotic structures in CDT?
+    </li>
   </ul>
 </details>
