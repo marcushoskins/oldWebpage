@@ -1,5 +1,5 @@
 ---
-title: 'Geometrothermodynamics Reading'
+title: 'Geometrothermodynamics'
 permalink: /reading/GTD_reading
 tags:
   - Geometry
