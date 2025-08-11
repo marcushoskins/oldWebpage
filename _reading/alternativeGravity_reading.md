@@ -1,5 +1,5 @@
 ---
-title: 'Alternate Gravity Reading'
+title: 'Alternative Gravity Theories'
 permalink: /reading/alternateGravity_reading
 tags:
   - Gravity
