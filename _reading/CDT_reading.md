@@ -54,6 +54,11 @@ This is where we will put reading for causal dynamical triangulations.
         Quantum Gravity, or The Art of Building Spacetime
       </a>
     </li>
+    <li>
+      <a href="https://inspirehep.net/literature/2869169" target="_blank">
+        [Thesis] Aspects of Numerical Physics on Networks
+      </a>
+    </li>
   </ul>
 </details>
 
