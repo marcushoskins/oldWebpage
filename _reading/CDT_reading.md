@@ -117,6 +117,11 @@ This is where we will put reading for causal dynamical triangulations.
         Notes on Black Hole Phase Transitions
       </a>
     </li>
+    <li>
+      <a href="https://arxiv.org/abs/1404.0228" target="_blank">
+        Big Band as a critical point
+      </a>
+    </li>
   </ul>
 </details>
 
