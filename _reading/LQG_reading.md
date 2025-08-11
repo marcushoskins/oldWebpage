@@ -5,6 +5,7 @@ tags:
   - Geometry
   - Lattice
   - Quantum Gravity
+  - Loop Quantum Gravity
 ---
 
 This is where we will put reading for loop quantum gravity.
@@ -13,8 +14,8 @@ This is where we will put reading for loop quantum gravity.
   <summary>Reviews</summary>
   <ul>
     <li>
-      <a href="" target="_blank">
-        f
+      <a href="https://arxiv.org/abs/2104.04394" target="_blank">
+        A Short Review of Loop Quantum Gravity
       </a>
     </li>
   </ul>
@@ -25,13 +26,8 @@ This is where we will put reading for loop quantum gravity.
   <summary>Group Field Theory</summary>
   <ul>
     <li>
-      <a href="https://arxiv.org/abs/1408.7112" target="_blank">
-        Group Field Theory and Loop Quantum Gravity
-      </a>
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/1409.3150" target="_blank">
-        Group Field Theory for all Loop Quantum Gravity
+      <a href="" target="_blank">
+        
       </a>
     </li>
   </ul>
