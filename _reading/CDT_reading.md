@@ -111,6 +111,11 @@ This is where we will put reading for causal dynamical triangulations.
         Exploring Euclidean Dynamical Triangulations with a Non-trivial Measure Term
       </a>
     </li>
+    <li>
+      <a href="https://inspirehep.net/literature/682518" target="_blank">
+        Spectral dimension of the universe
+      </a>
+    </li>
   </ul>
 </details>
 
