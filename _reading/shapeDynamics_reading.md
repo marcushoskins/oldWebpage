@@ -24,8 +24,8 @@ This is where we will put reading for shape dynamics.
   <summary>Papers</summary>
   <ul>
     <li>
-      <a href="" target="_blank">
-        f
+      <a href="https://arxiv.org/abs/2203.02773" target="_blank">
+        The Physics and Metaphysics of Pure Shape Dynamics
       </a>
     </li>
   </ul>
