@@ -52,6 +52,11 @@ This is where we will put reading for multifractional spacetimes.
         Classical and quantum gravity with fractional operators
       </a>
     </li>
+    <li>
+      <a href="https://inspirehep.net/literature/2909902" target="_blank">
+        Quantum Field Theory on Multifractal Spacetime: Varying Dimension and Ultraviolet Completeness
+      </a>
+    </li>
   </ul>
 </details>
 
