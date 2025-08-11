@@ -1,6 +1,6 @@
 ---
 title: 'Alternative Gravity Theories'
-permalink: /reading/alternateGravity_reading
+permalink: /reading/alternativeGravity_reading
 tags:
   - Gravity
 ---
