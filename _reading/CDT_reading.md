@@ -126,6 +126,16 @@ This is where we will put reading for causal dynamical triangulations.
         A Renormalization Group Analysis of the Ising Model Coupled to Causal Dynamical Triangulations
       </a>
     </li>
+    <li>
+      <a href="https://arxiv.org/abs/2208.01571" target="_blank">
+        Tensor network approach to 2d Lorentzian quantum Regge calculus
+      </a>
+    </li>
+    <li>
+      <a href="https://arxiv.org/abs/1604.01240" target="_blank">
+        Causal dynamical triangulation of a 3D tensor model
+      </a>
+    </li>
   </ul>
 </details>
 
