@@ -88,6 +88,21 @@ This is where we will put reading for the neural network / quantum field theory 
         Infinite neural network quantum states: entanglement and training dynamics
       </a>
     </li>
+    <li>
+      <a href="https://arxiv.org/abs/1611.01232" target="_blank">
+        Deep Information Propagation
+      </a>
+    </li>
+    <li>
+      <a href="https://arxiv.org/abs/2104.13478" target="_blank">
+        [Book] Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges
+      </a>
+    </li>
+    <li>
+      <a href="https://www.deeplearningbook.org/" target="_blank">
+        [Book] Deep Learning
+      </a>
+    </li>
   </ul> 
 </details>
 
