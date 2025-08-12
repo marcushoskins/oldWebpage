@@ -92,3 +92,17 @@ This is where we will put reading for the neural network / quantum field theory 
 </details>
 
 
+
+<details>
+  <summary>Thoughts</summary>
+  <ul>
+    <li>
+      How can one construct scattering states in the NN-QFT correspondence?
+    </li>
+    <li>
+      Is there a way to impose asymptotic structures in this correspondence? 
+    </li>
+  </ul> 
+</details>
+
+
