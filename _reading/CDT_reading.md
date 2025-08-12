@@ -166,6 +166,48 @@ This is where we will put reading for causal dynamical triangulations.
 </details>
 
 
+<details>
+  <summary>Regge Calculus</summary>
+  <ul>
+    <li>
+      <a href="https://arxiv.org/abs/1812.06193" target="_blank">
+        Tullio Regge's legacy: Regge calculus and discrete gravity
+      </a>
+    </li>
+    <li>
+      <a href="https://link.springer.com/article/10.1007/BF02733251" target="_blank">
+        General Relativity without Coordinates
+      </a>
+    </li>
+    <li>
+      <a href="https://iopscience.iop.org/article/10.1088/0264-9381/9/5/021" target="_blank">
+        Regge calculus: a brief review and bibliography
+      </a>
+    </li>
+    <li>
+      <a href="https://arxiv.org/abs/1904.01966" target="_blank">
+        Introduction to Regge Calculus for Gravitation
+      </a>
+    </li>
+    <li>
+      <a href="https://www.maths.nottingham.ac.uk/minisites/qg/Meetings/Zakopane/notes/rwilliams.pdf" target="_blank">
+        [Lecture Notes] Introduction to Regge Calculus
+      </a>
+    </li>
+    <li>
+      <a href="https://cds.cern.ch/record/230326/files/th-6236-91.pdf" target="_blank">
+        Discrete Quantum Gravity: The Regge Calculus Approach
+      </a>
+    </li>
+    <li>
+      <a href="https://www.sciencedirect.com/science/article/pii/S0920563297003551" target="_blank">
+        Recent progress in Regge calculus
+      </a>
+    </li>
+  </ul>
+</details>
+
+
 
 <details>
   <summary>Thoughts</summary>
