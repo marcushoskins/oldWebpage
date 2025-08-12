@@ -169,5 +169,8 @@ This is where we will put reading for causal dynamical triangulations.
     <li>
       Can one impose asymptotic structures in CDT?
     </li>
+    <li>
+      Can CDT be related to tensor network constructions of AdS? In particular, it's believed that tensor networks dual to certain critical many-body systems in their ground states are a crude model of AdS space. Although CDT is background independent, can a similar statement be made, or connections be drawn between the two constructions?
+    </li>
   </ul>
 </details>
