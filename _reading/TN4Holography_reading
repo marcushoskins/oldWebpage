@@ -1,0 +1,75 @@
+---
+title: 'Tensor Networks for Holography'
+permalink: /reading/TN4Holography_reading
+tags:
+  - Tensor Networks
+  - AdS/CFT
+  - Holography
+---
+
+This is where we will put reading for tensor networks, especially in the hologrpahic context.
+
+<details>
+  <summary>Papers</summary>
+  <ul>
+    <li>
+      <a href="https://benasque.org/2015gravity/talks_contr/211_VidalBenasque2015.pdf" target="_blank">
+        [Slides] Multi-scale entanglement renormalization ansatz (MERA)
+      </a>
+    </li>
+    <li>
+      <a href="https://arxiv.org/abs/1611.05877" target="_blank">
+        Holographic Dynamics from Multiscale Entanglement Renormalization Ansatz
+      </a>
+    </li>
+    <li>
+      <a href="https://arxiv.org/abs/1611.05877" target="_blank">
+        Holographic Dynamics from Multiscale Entanglement Renormalization Ansatz
+      </a>
+    </li>
+    <li>
+      <a href="https://arxiv.org/abs/0905.1317" target="_blank">
+        Entanglement Renormalization and Holography
+      </a>
+    </li>
+  </ul>
+</details>
+
+
+<details>
+  <summary>Tensor Networks Reviews</summary>
+  <ul>
+    <li>
+      <a href="https://www.nature.com/articles/s42254-025-00853-1.pdf" target="_blank">
+        Tensor networks for quantum computing
+      </a>
+    </li>
+    <li>
+      <a href="https://arxiv.org/abs/1708.00006" target="_blank">
+        Tensor Networks in a Nutshell
+      </a>
+    </li>
+  </ul>
+</details>
+
+
+<details>
+  <summary>Numerics</summary>
+  <ul>
+    <li>
+      <a href="https://github.com/google/TensorNetwork" target="_blank">
+        TensorNetwork [google Github]
+      </a>
+    </li>
+  </ul>
+</details>
+
+
+<details>
+  <summary>Thoughts</summary>
+  <ul>
+    <li>
+      In AdS/CFT, versions of the RT formula hold in tensor network models parametrizing the entanglement structure of critical many-body ground states. In such systems, AdS space is emergent, and namely is simply the tensor network in these models. 
+    </li>
+  </ul>
+</details>
