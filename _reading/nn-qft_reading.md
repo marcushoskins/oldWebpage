@@ -103,6 +103,11 @@ This is where we will put reading for the neural network / quantum field theory 
         [Book] Deep Learning
       </a>
     </li>
+    <li>
+      <a href="https://arxiv.org/abs/2411.06078" target="_blank">
+        A Survey on Kolmogorov-Arnold Network
+      </a>
+    </li>
   </ul> 
 </details>
 
