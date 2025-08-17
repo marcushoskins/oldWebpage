@@ -108,6 +108,16 @@ This is where we will put reading for the neural network / quantum field theory 
         A Survey on Kolmogorov-Arnold Network
       </a>
     </li>
+    <li>
+      <a href="https://arxiv.org/abs/2408.04720" target="_blank">
+        Learning the Simplicity of Scattering Amplitudes
+      </a>
+    </li>
+    <li>
+      <a href="https://iaifi.org/domain-research.html#theoretical-physics" target="_blank">
+        [Website] Domain Research - Theoretical Physics
+      </a>
+    </li>
   </ul> 
 </details>
 
