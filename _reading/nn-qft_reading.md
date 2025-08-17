@@ -118,6 +118,21 @@ This is where we will put reading for the neural network / quantum field theory 
         [Website] Domain Research - Theoretical Physics
       </a>
     </li>
+    <li>
+      <a href="https://arxiv.org/abs/2409.10594" target="_blank">
+        Kolmogorov-Arnold Transformer
+      </a>
+    </li>
+    <li>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782524005462" target="_blank">
+        A comprehensive and FAIR comparison between MLP and KAN representations for differential equations and operator networks
+      </a>
+    </li>
+    <li>
+      <a href="https://arxiv.org/abs/2305.17473" target="_blank">
+        A Comprehensive Overview and Comparative Analysis on Deep Learning Models: CNN, RNN, LSTM, GRU
+      </a>
+    </li>
   </ul> 
 </details>
 
