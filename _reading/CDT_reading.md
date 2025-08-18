@@ -59,6 +59,11 @@ This is where we will put reading for causal dynamical triangulations.
         [Thesis] Aspects of Numerical Physics on Networks
       </a>
     </li>
+    <li>
+      <a href="https://arxiv.org/abs/hep-th/9303127" target="_blank">
+        Simplicial Quantum Gravity and Random Lattices
+      </a>
+    </li>
   </ul>
 </details>
 
