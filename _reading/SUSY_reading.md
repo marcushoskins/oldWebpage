@@ -11,6 +11,11 @@ This is where we will put reading for supersymmetry.
   <summary>Reviews</summary>
   <ul>
     <li>
+      <a href="https://arxiv.org/abs/hep-th/0108200" target="_blank">
+        Superspace, or One thousand and one lessons in supersymmetry
+      </a>
+    </li>
+    <li>
       <a href="https://arxiv.org/abs/0910.0192" target="_blank">
         Supersymmetric Quantum Mechanics
       </a>
@@ -70,6 +75,16 @@ This is where we will put reading for supersymmetry.
     <li>
       <a href="https://www.damtp.cam.ac.uk/user/tong/susy/morse.pdf" target="_blank">
         SUPERSYMMETRY AND MORSE THEORY
+      </a>
+    </li>
+    <li>
+      <a href="https://inspirehep.net/literature/1113786" target="_blank">
+        Exploring Curved Superspace
+      </a>
+    </li>
+    <li>
+      <a href="https://inspirehep.net/literature/1188033" target="_blank">
+        Exploring Curved Superspace (II)
       </a>
     </li>
   </ul>
